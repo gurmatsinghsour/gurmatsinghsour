@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ **I play games, watch anime and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
