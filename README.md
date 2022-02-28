@@ -6,8 +6,6 @@
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
-- ⚡ **I play games, watch anime and go to the GYM very often.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
