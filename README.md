@@ -1,8 +1,8 @@
-<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%2336BCF7&width=490&lines=Hi%2C+I'm+Gurmat+Singh+Sour!;Currently+pursuing+my+B.E+degree+in+CS;"> </p>
+<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I'm+Gurmat+Singh+Sour;Welcome+to+my+Github+profile!+"> </p>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently pursuing my B.E in CS.**
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
