@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently pursuing my B.E in CS.**
+- 🌱 I’m currently pursuing my B.E degree in CS.
 
 - 👨‍💻 All of my projects are available at my github repositories. 
 
