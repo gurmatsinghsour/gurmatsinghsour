@@ -25,18 +25,8 @@
 <img alt="Gurmat Singh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gurmatsinghsour&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-  
-  <img alt="Gurmat Singh Sour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gurmatsinghsour&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <img alt="Gurmat Singh Sour's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurmatsinghsour&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
 
 <img alt="Gurmat Singh Sour's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gurmatsinghsour&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
