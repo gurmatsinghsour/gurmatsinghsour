@@ -33,7 +33,3 @@
 <a href = "https://www.instagram.com/gurmatsinghsour/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<img src="https://komarev.com/ghpvc/?username=gurmatsinghsour">
-<a href="https://github.com/gurmatsinghsour?tab=followers"><img src="https://img.shields.io/github/followers/gurmatsinghsour?label=Followers&style=social" alt="GitHub Badge"></a>
