@@ -16,6 +16,7 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
     <img src="https://img.icons8.com/color/48/000000/python.png"/>  
     <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux"/>
 </p>
 
 
