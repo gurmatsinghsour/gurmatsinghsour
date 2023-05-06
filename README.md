@@ -1,8 +1,5 @@
 ### Welcome to my GitHub profile! I am a software engineer with a passion for developing efficient and scalable software solutions. I have experience working on a variety of projects and enjoy taking on new challenges.
 
-# Skills
-
-
 <!--
 **gurmatsinghsour/gurmatsinghsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
