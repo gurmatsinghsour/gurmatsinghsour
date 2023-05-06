@@ -3,4 +3,4 @@
 
 
 
-<h5 align="center"> Currently working on <a href="https://github.com/DegenCoders/Paste-Bin">Pastebin</a></h5>
+<h5 align="center"> Currently building <a href="https://github.com/DegenCoders/Paste-Bin">Pastebin</a></h5>
