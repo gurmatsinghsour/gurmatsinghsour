@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Gurmat Singh Sour 
-# Aspiring Cybersecurity Analyst & Passionate Software Developer
+### Aspiring Cybersecurity Analyst & Passionate Software Developer
 
 <!--
 **gurmatsinghsour/gurmatsinghsour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
