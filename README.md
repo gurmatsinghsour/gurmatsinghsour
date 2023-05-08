@@ -5,4 +5,4 @@
 
 - Currently building <a href="https://github.com/DegenCoders/Paste-Bin">Pastebin</a>
 - Skills
-  - Python, C, C++, Java, Javascript, Node.js, FastAPI
+  - Python, C, C++, Java, Javascript
